@@ -2,7 +2,7 @@ def addition(x,y):
 	pass
 
 def subtraction(x,y):
-	pass
+	return x-y
 
 def multiply(x,y):
 	pass
