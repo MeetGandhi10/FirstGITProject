@@ -1,0 +1,2 @@
+This is the file I created from BranchNo1
+I will now create branch 1a from branch1 and see if it inherits master or branch1
